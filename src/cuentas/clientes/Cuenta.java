@@ -1,6 +1,8 @@
 package cuentas.clientes;
 
 public class Cuenta {
+    // Este es un comentario agregado para prueba de Git
+
 
     /**
      * @return the nombre
